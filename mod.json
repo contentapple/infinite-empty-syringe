@@ -1,0 +1,17 @@
+{
+  "Name": "Infinite Empty Syringe",
+  "Author": "ContentApple",
+  "Description": "Adds an empty syringe with the enable infinite source option.",
+  "ModVersion": "1.0",
+  "GameVersion": "1.27",
+  "ThumbnailPath": "thumbnail.png",
+  "EntryPoint": "Mod.Mod",
+  "Tags": [],
+  "Scripts": [
+    "script.cs"
+  ],
+  "Active": true,
+  "UGCIdentity": null,
+  "CreatorUGCIdentity": "3686553415",
+  "AssemblyName": null
+}
